@@ -1,0 +1,1 @@
+Bu dosyada rezervasyon işlemi yapılacaktır.
